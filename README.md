@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
+### Hello geeks! nice to see you. I'm Aman Rana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <br>
+ <div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
+</div> 
 <h3 align="center">A passionate web developer with a knack for competitive programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanrana10&label=Profile%20views&color=0e75b6&style=flat" alt="amanrana10" /> </p>
