@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as a SDE Intern at Byteridge. Formerly I was working as a Teaching assistant at Coding Ninjas.
+Ex-SDE Intern at Byteridge. Formerly I was working as a Teaching assistant at Coding Ninjas.
 
 
 ## 🌐 Socials:
